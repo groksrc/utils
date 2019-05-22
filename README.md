@@ -8,6 +8,7 @@ Tools:
 * curl
 * dnsutils
 * git
+* iputils-ping
 * net-tools
 * postgresql
 * wget

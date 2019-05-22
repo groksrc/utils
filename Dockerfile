@@ -9,6 +9,7 @@ RUN apt update && \
     apt install curl \
                 dnsutils \
                 git \
+                iputils-ping \
                 net-tools \
                 postgresql \
                 wget \
