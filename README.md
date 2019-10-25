@@ -8,9 +8,10 @@ Tools:
 * curl
 * dnsutils
 * git
+* hasura (with autocomplete via Oh-my-zsh)
 * iputils-ping
 * net-tools
 * postgresql
 * wget
 * zsh (with Oh-my-zsh)
- 
+* vim
