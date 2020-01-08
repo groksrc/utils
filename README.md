@@ -15,3 +15,9 @@ Tools:
 * wget
 * zsh (with Oh-my-zsh)
 * vim
+
+## helm install
+
+```
+$ helm install utils ./utils --set pvcName=your_pvc_name -n your_namespace
+```
