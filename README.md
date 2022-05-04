@@ -16,6 +16,9 @@ Tools:
 * zsh (with Oh-my-zsh)
 * vim
 
+## run
+k run utils --tty --stdin --image=groksrc/utils:latest
+
 ## helm install
 
 ```
