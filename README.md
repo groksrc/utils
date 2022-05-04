@@ -17,7 +17,9 @@ Tools:
 * vim
 
 ## run
-k run utils --tty --stdin --image=groksrc/utils:latest
+```
+$ kubectl run utils --tty --stdin --image=groksrc/utils:latest
+```
 
 ## helm install
 
